@@ -21,8 +21,7 @@
     ],
     "files": [
         "index.d.ts",
-        "/src",
-        "RNCPickerSelect.podspec"
+        "/src"
     ],
     "dependencies": {
         "@react-native-picker/picker": "^2.10.2",
