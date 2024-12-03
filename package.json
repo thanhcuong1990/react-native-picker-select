@@ -24,11 +24,11 @@
         "/src"
     ],
     "dependencies": {
-        "@react-native-picker/picker": ">=2.10.1",
+        "@react-native-picker/picker": ">=2.10.2",
         "lodash.isequal": "^4.5.0"
     },
     "peerDependencies": {
-        "@react-native-picker/picker": ">=2.10.1"
+        "@react-native-picker/picker": ">=2.10.2"
     },
     "devDependencies": {
         "@types/react-native": "^0.60.22",
@@ -44,7 +44,8 @@
         "react": "16.6.1",
         "react-dom": "^16.6.1",
         "react-native": "0.57.7",
-        "react-test-renderer": "^16.6.1"
+        "react-test-renderer": "^16.6.1",
+        "@react-native-picker/picker": "^2.10.2"
     },
     "scripts": {
         "test": "jest",
